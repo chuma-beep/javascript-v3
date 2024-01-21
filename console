@@ -40,7 +40,7 @@ let result = numbers.map(double).map(add5)
 //expected output will be [6, 9, 14, 21, 30]
 
 
-
+-
 
 //here use use map, filter and reduce to manipulate the array of numbers and fruits
 
